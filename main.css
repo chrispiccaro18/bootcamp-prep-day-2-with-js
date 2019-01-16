@@ -15,6 +15,7 @@ h1 {
 .greeting {
     font-family: 'Times New Roman', Times, serif;
     color: darkolivegreen;
+    border: 1px solid black;
 }
 
 ol {
