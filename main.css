@@ -1,0 +1,32 @@
+body {
+    color:darkblue;
+}
+
+h1 {
+    font-family: sans-serif;
+    display: flex;
+}
+
+.holder-type {
+    color:rgb(255, 0, 242);
+    margin-top: 10px;
+}
+
+.greeting {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkolivegreen;
+}
+
+ol {
+    display: block;
+    list-style-type: georgian;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+header {
+    border: 5px solid chocolate;
+}
